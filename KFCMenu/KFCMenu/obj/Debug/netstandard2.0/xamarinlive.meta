@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\App.xaml</FilePath>
+      <Hash>34-50-C7-4B-29-91-6D-91-EA-6A-DC-C2-FF-58-75-5B</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\MainPage.xaml</FilePath>
+      <Hash>4A-76-D2-28-4A-0A-50-C1-1A-37-00-8A-58-CE-EB-1E</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\Pocetna.xaml</FilePath>
+      <Hash>6F-9F-E5-F5-B4-5D-D3-4A-4E-B6-95-2D-88-BC-0C-C5</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\PocetnaDetail.xaml</FilePath>
+      <Hash>96-07-D2-7C-9E-DF-51-4B-15-6E-D5-42-0C-A2-6B-46</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\PocetnaMaster.xaml</FilePath>
+      <Hash>7C-E2-CF-BB-09-C8-5B-D8-60-B6-73-C2-46-F6-10-45</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

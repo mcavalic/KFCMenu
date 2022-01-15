@@ -1,0 +1,38 @@
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\bin\Debug\netstandard2.0\KFCMenu.deps.json
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\bin\Debug\netstandard2.0\KFCMenu.dll
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\bin\Debug\netstandard2.0\ref\KFCMenu.dll
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\bin\Debug\netstandard2.0\KFCMenu.pdb
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.csprojAssemblyReference.cache
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.AssemblyInfoInputs.cache
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.AssemblyInfo.cs
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.dll
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\ref\KFCMenu.dll
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.pdb
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\Pocetna.xaml.g.cs
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\PocetnaDetail.xaml.g.cs
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\PocetnaMaster.xaml.g.cs
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\Meni.xaml.g.cs
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\Narudzba.xaml.g.cs
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.csproj.CoreCompileInputs.cache
+C:\Users\Azra\Desktop\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\bin\Debug\netstandard2.0\KFCMenu.deps.json
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\bin\Debug\netstandard2.0\KFCMenu.dll
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\bin\Debug\netstandard2.0\ref\KFCMenu.dll
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\bin\Debug\netstandard2.0\KFCMenu.pdb
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.csprojAssemblyReference.cache
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\Meni.xaml.g.cs
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\Narudzba.xaml.g.cs
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\Pocetna.xaml.g.cs
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\PocetnaDetail.xaml.g.cs
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\PocetnaMaster.xaml.g.cs
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.AssemblyInfoInputs.cache
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.AssemblyInfo.cs
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.csproj.CoreCompileInputs.cache
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.dll
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\ref\KFCMenu.dll
+C:\Users\Mirsad Cavalic\Downloads\KFCMenu-Drapic Azra, Cavalic Mirsad\KFCMenu\KFCMenu\KFCMenu\obj\Debug\netstandard2.0\KFCMenu.pdb
